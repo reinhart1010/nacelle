@@ -17,6 +17,6 @@ All Nacelle font CSS files are under the same directory: `https://reinhart1010.g
 + [nacelle.lite.min.css](https://reinhart1010.github.io/nacelle/nacelle.lite.min.css) is the minified version of [nacelle.lite.css](https://reinhart1010.github.io/nacelle/nacelle.lite.css).
 
 # License
-We retain the original font license as-is, which is [SIL Open Font License (OFL), Version 1.1](https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL). However, the CSS files are released to the public domain, and the Fontforge script is released under the MIT license.
+We retain the original font license as-is, which is the [SIL Open Font License (OFL), Version 1.1](https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL). However, the CSS files are released to the public domain, and the Fontforge script is released under the MIT license.
 
 The LICENSE file contained on this repository contains the exact same copy of the OFL.
